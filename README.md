@@ -1,5 +1,11 @@
 # Daily-planner
 ![unidentifed object.](./Assets/day scheduler screenshot.jpg)
+## What did you learn? 
+
+```
+it helped me rememeer to check every single corner for errors because I had left something collapes and it messed with my whole code 
+```
+
 ## What is your motivation
 
 ```
