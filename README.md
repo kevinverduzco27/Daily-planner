@@ -1,5 +1,5 @@
 # Daily-planner
-![unidentifed object.](./Assets/day scheduler screenshot.jpg)
+![unidentifed object.](./Assets/screenshott.jpg)
 ## What did you learn? 
 
 ```
