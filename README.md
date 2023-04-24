@@ -1,5 +1,5 @@
 # Daily-planner
-![unidentifed object.](./Assets/screenshot.jpg)
+![unidentifed object.](./Assets/screenshot.png)
 ## What did you learn? 
 
 ```
